@@ -1,0 +1,128 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	text-align: center;
+	font-family: "PT Mono";
+	font-size: 14px;
+	background-image: url('squairy_light.gif');
+}
+ul {
+	list-style-position: inside; /*this makes the bullets align with the text*/
+}
+h1 {
+	color: #1A1A1A;
+}
+.container {
+width: 80%;
+margin-top: 10px; 
+background: #FFFFFF; 
+-moz-box-shadow:    3px 3px 5px 6px #ccc;
+-webkit-box-shadow: 3px 3px 5px 6px #ccc;
+ box-shadow:         5px 5px 5px 6px #000;
+
+}
+
+img {
+	width: 150px;
+	height: 150px;
+}
+
+p {
+	line-height: normal;
+}
+
+
+div.about {
+	padding-top: 10px;
+}
+
+
+
+.posts {
+
+width: 250px;
+height: 250px;
+background-color: white;
+border-color: black;
+box-shadow: 1px 1px 3px 0px #000;
+-moz-box-shadow:    1px 1px 3px 0px #000;
+-webkit-box-shadow: 3px 3px 3px 0px #000;
+margin: auto; 
+}
+
+
+h1{
+margin-top: 0px;
+padding: 10px;
+font-size: 60px;
+font-family: "Oswald";
+}
+
+h2{
+margin-top: 0px;
+padding: 5px;
+font-style: bold;
+
+}
+
+
+i {
+font-size: 60px;
+}
+
+
+div.identity {
+	color: #1A1A1A; 
+	margin: 0px;
+	padding: 0px;
+	text-shadow: 1px 1px 1px #ccc;
+}
+p.top{
+	text-align: left;
+	font-family: "Andada";
+	font-size: 70px; 
+
+}
+p.under{
+	text-align:left;
+	font-family: "Arimo"; 
+	font-size: 35px; 
+	margin-top: -30px;
+	color:  #00CED1;
+}
+
+div.nav {
+	color: white;
+	background-color: black;
+	margin: 20px;
+	padding: 0px;
+}
+
+.list{
+	text-align: left;
+	margin: 0 auto;
+	width: 80%;
+	color: ;
+}
+li.one {
+	color: #00CED1; /*turquoiseygreen*/
+}
+li.two {
+	color: #08C;
+}
+li span {
+	color: #1A1A1A;
+}
+.lbody{
+	color: #1A1A1A;
+}
+
+#carousel li{
+	display: inline;
+}
+
+

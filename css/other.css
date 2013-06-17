@@ -1,0 +1,16 @@
+h1 {
+	color: black;
+	background-color: blue;
+}
+
+
+h1.top {
+	font-family: "Abril Fatface", Arial;
+	color: purple;
+}
+
+
+body {
+	color: green;
+	background-color: red;
+}

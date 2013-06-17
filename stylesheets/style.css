@@ -1,0 +1,174 @@
+
+/*Palette
+taupeydarkbrown: #594F4F;
+darkishteal: #547980;
+medgreenblue: #45ADA8;
+mintygreen: #9DE0AD;
+lightlimeygreen: #E5FCC2;
+*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	text-align: center;
+	background-image: url(squairy_light.gif);
+	/*background-image: url(mochaGrunge.jpg);*/
+	font-family: "Telex";
+	font-size: 20px;
+	font-color: navy;
+}
+
+.container {
+width: 80%;
+margin-top: 10px;
+/*background-image:url('wall.png');*/
+background: #FFFFFF; /*limey-green*/
+-moz-box-shadow:    3px 3px 5px 6px #ccc;
+-webkit-box-shadow: 3px 3px 5px 6px #ccc;
+ box-shadow:         5px 5px 5px 6px #000;
+
+}
+
+div.present {
+	
+	border-width: 1px;
+	border-style: solid;
+/*	border-color:  gray; /*#888888;*/*/
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: -5px;
+	padding-top: -5px;
+	/*background-image: url('wall.png');*/
+	box-shadow: 1px 1px 3px 0px #000;
+	-moz-box-shadow:    1px 1px 3px 0px #000;
+	-webkit-box-shadow: 3px 3px 3px 0px #000;
+}
+
+.present p {
+	font-family: "Ubuntu";
+}
+
+p {
+	line-height: normal;
+}
+
+
+.page-header {
+margin: 0px;
+border-color: #888888;
+box-shadow: 1px 1px 3px 0px #000;
+-moz-box-shadow:    1px 1px 3px 0px #000;
+-webkit-box-shadow: 3px 3px 3px 0px #000;
+background-color:  #031635; /*darkestblue*/
+color: white;
+}
+.page-header h1 {
+	color: white;
+}
+div.about {
+color:  #031635;
+background-color: white;
+border-style: solid;
+border-color: #031635;
+border-width: 4px;
+}
+
+.about h1 {
+
+}
+.studying {
+background-color:  #031635; /*darkestblue*/
+color: white;
+}
+
+.learned {
+background-color:  #031635; /*darkestblue*/
+color: white;
+}
+
+.interests {
+background-color:  #031635; /*darkestblue*/
+color: white;
+}
+
+.creations {
+color: black;
+background-color:  #031635; /*darkestblue*/
+border-color: #031635;
+border-style: solid;
+border-size: 0px;
+}
+.reading {
+	background-color:  #031635; /*darkestblue*/
+	color: white;
+}
+.creations h1 {
+	color: white;
+}
+
+.contact {
+
+
+}
+
+.posts {
+
+width: 250px;
+height: 250px;
+background-color: white;
+border-color: black;
+box-shadow: 1px 1px 3px 0px #000;
+-moz-box-shadow:    1px 1px 3px 0px #000;
+-webkit-box-shadow: 3px 3px 3px 0px #000;
+margin: auto; 
+}
+ul {
+	margin: 0px;
+	padding: 0pxs;
+}
+
+h1{
+
+/*color: #45ADA8;  Medium green blue*/
+/*font-family: "Abril Fatface", Arial;*/
+font-family: "Abril Fatface", Arial;
+margin-top: 0px;
+padding: 5px;
+font-size: 60px;
+/*font-family: 'Corben', 'Arial';*/
+/*text-shadow: 0.1em 0.1em 0.05em #333*/
+}
+h2{
+
+/*color: #45ADA8;  Medium green blue*/
+/*font-family: "Abril Fatface", Arial;*/
+font-family: "Averia Serif Libre", "Helvetica";
+margin-top: 0px;
+padding: 5px;
+/*font-family: 'Corben', 'Arial';*/
+/*text-shadow: 0.1em 0.1em 0.05em #333*/
+}
+
+.page-header h1 {
+/*	font-family: "Abril Fatface", Arial;*/
+	color: white;
+	text-shadow: none;
+}
+
+h2 {
+font-style: bold;	
+}
+
+i {
+font-size: 60px;
+}
+
+h1.top {
+	font-family: "Abril Fatface", Arial;
+	color: black;
+}
+.present h1 {
+	text-shadow: 1px 1px 1px #ccc;
+}
